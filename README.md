@@ -66,7 +66,6 @@ TransLingua/
 
 ##  How to Run the Project
 
-
 1. Create virtual environment (one time)
 ```bash
 python -m venv venv
@@ -104,12 +103,7 @@ Text input and language selection
 
 Generated translated output
 
-## 🚀 Live Demo
 
-You can access the deployed application here:
-
-🔗 https://translingua-fwy6updl26wgchz89mqnna.streamlit.app
-he TransLingua AI-Powered Language Translator is deployed and accessible online.
 ## Security Practices
 
 API keys are stored securely using environment variables
