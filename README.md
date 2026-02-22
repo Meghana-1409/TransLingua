@@ -66,7 +66,7 @@ TransLingua/
 
 ##  How to Run the Project
 
-```
+
 1. Create virtual environment (one time)
 ```bash
 python -m venv venv
